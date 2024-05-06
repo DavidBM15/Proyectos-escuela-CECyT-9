@@ -1,0 +1,85 @@
+header {
+    background-color: #B282D3;
+}
+
+h1 {
+    color: #CCD382;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #D382A3;
+}
+
+.mujajaja {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
+.ramirez {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 125px;
+}
+
+.ramirez_papu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 125px;
+    width: 1300px;
+    text-align: right;
+    align-items: center;
+}
+
+nav {
+    background-color: #CCD382;
+    font-size: 25px;
+    text-align: right;
+}
+
+.Papu_pro {
+    text-align: center;
+    font-size: 150%;
+    font-family: cursive;
+}
+
+.chubaca {
+    background-color: #CCD382;
+}
+
+.Juan_son {
+    background-color: #B282D3;
+}
+
+.jijija {
+    text-align: center;
+    font-size: 30px;
+    color: #B282D3;
+}
+
+.aña {
+    text-align: center;
+    font-size: 30px;
+    color: #CCD382;
+}
+
+table, tr, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: #B282D3;
+    color: white;
+}
+
+.xd {
+    font-size: 28px;
+    color: #d382cb;
+}
+
+.waza {
+    font-size: 28px;
+    color: #CCD382;
+}
