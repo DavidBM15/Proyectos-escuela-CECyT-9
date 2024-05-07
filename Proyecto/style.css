@@ -1,0 +1,140 @@
+header {
+    background-color: #B282D3;
+}
+
+.sopapo {
+    color: #CCD382;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #D382A3;
+}
+
+.mujajaja {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
+.ramirez {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 125px;
+}
+
+.ramirez_papu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 125px;
+    width: 1300px;
+    text-align: right;
+    align-items: center;
+}
+
+nav {
+    background-color: #CCD382;
+    font-size: 25px;
+    text-align: right;
+}
+
+.Papu_pro {
+    text-align: center;
+    font-size: 150%;
+    font-family: cursive;
+}
+
+.chubaca {
+    background-color: #CCD382;
+}
+
+.Juan_son {
+    background-color: #B282D3;
+}
+
+.jijija {
+    text-align: center;
+    font-size: 30px;
+    color: #B282D3;
+}
+
+.aña {
+    text-align: center;
+    font-size: 30px;
+    color: #CCD382;
+}
+
+table, tr, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: #B282D3;
+    color: white;
+}
+
+.xd {
+    font-size: 28px;
+    color: #d382cb;
+}
+
+.waza {
+    font-size: 28px;
+    color: #CCD382;
+}
+
+table {
+    font-size: 40px;
+}
+
+.papure {
+    width: 70px;
+} 
+
+.chubaca2 {
+    background-color: #CCD382;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
+.ramirez_papu2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 125px;
+    width: 1300px;
+    text-align: right;
+    align-items: center;
+    font-size: 60px;
+}
+
+.ramirez2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 2%;
+}
+
+.menusito {
+    color: #D382A3;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.wawa {
+    background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)),
+        url(img/pepe.jfif);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 410px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+}
