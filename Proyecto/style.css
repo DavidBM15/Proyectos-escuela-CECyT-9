@@ -16,6 +16,8 @@ header {
 
 body {
     background-color: #D382A3;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .mujajaja {
@@ -161,12 +163,12 @@ table {
     background-color: #4e5221;
 }
 
-li {
+.lickitung {
     display: inline-block;
     padding: 0 20px;
 }
 
-li:hover {
+.lickitung:hover {
     transform: scale(1.1);
 }
 
@@ -181,4 +183,13 @@ li:hover {
 
 h3 {
     font-size: 28px;
+}
+
+.golbat {
+    list-style: square;
+}
+
+.pichu {
+    width: 300%;
+    height: 300%;
 }
