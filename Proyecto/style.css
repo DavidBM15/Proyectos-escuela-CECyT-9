@@ -247,7 +247,7 @@ h3 {
     height: 40px;
     text-align: center;
     font-size: 18px;
-    line-height: 40px;
+    line-height: 20px;
 }
 
 .jolteon {
@@ -259,11 +259,26 @@ h3 {
     text-decoration: underline;
 }
 
-.haunter {
+.wacha {
     width: 100%;
     background-color: #B282D3;
     border: none;
     padding: 12px;
     margin: 16px 0;
     font-size: 16px;
+}
+
+.eevee {
+    display: inline-block;
+    margin: 25px 0px;
+    background-color: #D382A3;
+    color: #CCD382;
+    padding: 25px 35px;
+    text-decoration: none;
+    font-size: 50px;
+    border-radius: 25%;
+}
+
+.eevee:hover {
+    background-color: #5a293d;
 }
