@@ -64,6 +64,11 @@ nav {
     background-color: #B282D3;
 }
 
+.Juan_son2 {
+    background-color: #B282D3;
+    text-align: justify;
+}
+
 .jijija {
     text-align: center;
     font-size: 60px;
@@ -192,4 +197,9 @@ h3 {
 .pichu {
     width: 300%;
     height: 300%;
+}
+
+.mr_graso {
+    align-items: center;
+    align-content: center;
 }
