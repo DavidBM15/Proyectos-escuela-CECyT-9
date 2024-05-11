@@ -4,8 +4,8 @@ header {
 
 *{
     box-sizing: border-box;
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 
 .sopapo {
@@ -206,4 +206,64 @@ h3 {
 
 .hypno {
     padding-left: 27px;
+}
+
+.luxray {
+    background-color: #CCD382;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.froakie {
+    width: 400px;
+    background-color: #CCD382;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.gigalith {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.hoothoot {
+    width: 100%;
+    background-color: #CCD382;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #B282D3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.gligar {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.jolteon {
+    color: black;
+    text-decoration: none;
+} 
+
+.jolteon:hover {
+    text-decoration: underline;
+}
+
+.haunter {
+    width: 100%;
+    background-color: #B282D3;
+    border: none;
+    padding: 12px;
+    margin: 16px 0;
+    font-size: 16px;
 }
