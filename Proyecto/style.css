@@ -58,10 +58,16 @@ nav {
 
 .chubaca {
     background-color: #CCD382;
+    align-items: center;
+    align-content: center;
+    text-align: center;
 }
 
 .Juan_son {
     background-color: #B282D3;
+    align-items: center;
+    align-content: center;
+    text-align: center;
 }
 
 .Juan_son2 {
@@ -98,10 +104,6 @@ table, tr, td {
 .waza {
     font-size: 40px;
     color: #CCD382;
-}
-
-table {
-    font-size: 40px;
 }
 
 .papure {
@@ -310,4 +312,49 @@ h3 {
 
 .groudon {
     padding-left: 25px;
+}
+
+.meowth {
+    content: '';
+    display: inline-block;
+    width: 315px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.tyranitar {
+    content: '';
+    display: inline-block;
+    width: 800px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.pro {
+    background-color: #B282D3;
+}
+
+.nuv {
+    background-color: #D382A3;
+}
+
+table {
+    width: 60%;
+    height: 50%;
+    font-size: 38px;
+}
+table, tr, td {
+    border:5px solid #CCD382;
+    border-collapse: collapse;                
+}
+tr, td {
+    text-align: center;
+    padding: 15px;
+    background-color: #B282D3;
 }
