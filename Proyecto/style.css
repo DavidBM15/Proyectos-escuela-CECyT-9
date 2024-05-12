@@ -60,21 +60,22 @@ nav {
     background-color: #CCD382;
     align-items: center;
     align-content: center;
-    text-align: center;
+    text-align: justify;
+    padding: 3em;
 }
 
 .Juan_son {
     background-color: #B282D3;
     align-items: center;
     align-content: center;
-    text-align: center;
+    text-align: justify;
+    padding: 3em;
 }
 
 .Juan_son2 {
     background-color: #B282D3;
     text-align: justify;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 3em;
 }
 
 .jijija {
@@ -115,6 +116,7 @@ table, tr, td {
     display: flex;
     flex-direction: row;
     justify-content: baseline;
+    padding: 1em;
 }
 
 .ramirez_papu2 {
@@ -357,4 +359,32 @@ tr, td {
     text-align: center;
     padding: 15px;
     background-color: #B282D3;
+}
+
+.radiohead {
+    width: 200px;
+    height: 250px;
+}
+
+.interpol {
+    width: 150px;
+    height: 250px;
+}
+
+.losbunkers {
+    width: 250px;
+    height: 250px;
+}
+
+.megadeth {
+    width: 350px;
+    height: 250px;
+}
+
+.gusanaciega {
+    padding: 0px 50px 30px 0;
+}
+
+.bunbury {
+    text-decoration: none;
 }
