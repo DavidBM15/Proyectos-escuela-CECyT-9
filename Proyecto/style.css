@@ -205,7 +205,8 @@ h3 {
 }
 
 .hypno {
-    padding-left: 27px;
+    margin-left: auto;
+    list-style: none;
 }
 
 .luxray {
@@ -281,4 +282,29 @@ h3 {
 
 .eevee:hover {
     background-color: #5a293d;
+}
+
+.palkia {
+    color: #000;
+}
+
+.palkia::before {
+    content: '';
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url(img/papure.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.kabuto {
+    margin-top: 15px;
+    display: flex;
+}
+
+.groudon {
+    padding-left: 25px;
 }
