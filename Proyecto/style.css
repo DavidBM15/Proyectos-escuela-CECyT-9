@@ -405,3 +405,22 @@ tr, td {
 .enjambre img{
     margin-top: 5px;
 }
+
+.radiohead2 {
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    margin-left: 55px;
+}
+
+.chubaca3 {
+    background-color: #CCD382;
+    padding: 3em;
+}
+
+footer {
+    background-color: #000;
+    color: white;
+    padding: 1em;
+    font-size: 30px;
+}
